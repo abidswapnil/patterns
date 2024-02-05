@@ -1,4 +1,4 @@
-# Rectangular Star Pattern
+# Hollow Rectangle Pattern
 class P:
   def makePattern(self, n: int):
     s, res = '', ''

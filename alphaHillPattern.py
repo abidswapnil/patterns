@@ -19,7 +19,7 @@ class P:
 
 
 s = P()
-print(s.makePattern(n=10))
+print(s.makePattern(n=26))
 
 #                   A
 #                 A B A
